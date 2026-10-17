@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "0eb9dbf33c3db73ac72f854f",
+  "owner": "yfnywxgph",
+  "repo": "page-570a9817538b75de17937aad",
+  "title": "传奇节点",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "570a9817538b75de17937aad",
+      "a": "传奇节点",
+      "b": "",
+      "entity": "传奇节点",
+      "brand": "传奇节点",
+      "separator": "",
+      "path": "index.html",
+      "hash": "496c75f880f5a12644cdd864b30b952a0257058c3b54fd4bd25cf5bcc5bd94af",
+      "content": {
+        "keyword1": "传奇节点",
+        "keyword2": "",
+        "primary_entity": "传奇节点",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "全球高速线路，原生流媒体解锁，游戏专线加速。简单，稳定，快。",
+          "AI_DESCRIPTION": "全球高速线路，原生流媒体解锁，游戏专线加速。简单，稳定，快。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<main><style>\n  :root{--deep:#0b1d33;--deep2:#12294a;--amber:#f5a623;--amber-soft:#ffc966;--paper:#f6f4ee;--ink:#12294a;--muted:#5b6b82;--radius:28px}\n  *{margin:0;padding:0;box-sizing:border-box}\n  body{font-family:\"PingFang SC\",\"Helvetica Neue\",Arial,sans-serif;background:var(--paper);color:var(--ink);line-height:1.6}\n  a{color:inherit;text-decoration:none}\n  img{max-width:100%}\n  .wrap{max-width:1180px;margin:0 auto;padding:0 24px}\n\n  /* ---------- 首屏 ---------- */\n  .hero{background:linear-gradient(160deg,#0b1d33 0%,#12294a 60%,#173558 100%);color:#fff;border-radius:0 0 48px 48px;padding-bottom:88px}\n  nav{display:flex;align-items:center;justify-content:space-between;padding:28px 0;flex-wrap:wrap;gap:16px}\n  .logo{font-size:22px;font-weight:800;letter-spacing:2px}\n  .logo em{font-style:normal;color:var(--amber)}\n  .anchors{display:flex;gap:8px;flex-wrap:wrap}\n  .anchors a{padding:8px 18px;border-radius:999px;font-size:14px;border:1px solid rgba(255,255,255,.25);transition:.25s}\n  .anchors a:hover{background:var(--amber);border-color:var(--amber);color:var(--deep)}\n\n  .hero-grid{display:grid;grid-template-columns:1.4fr 1fr;gap:48px;margin-top:64px;align-items:end}\n  .kicker{display:inline-block;color:var(--amber);font-size:13px;letter-spacing:4px;margin-bottom:18px;font-weight:700}\n  .hero h1{font-size:clamp(40px,6vw,72px);line-height:1.12;font-weight:900;letter-spacing:1px}\n  .hero h1 span{color:var(--amber)}\n  .hero-lede{font-size:18px;color:#c8d4e4;margin-top:24px;max-width:520px}\n  .cta-row{display:flex;gap:16px;margin-top:36px;flex-wrap:wrap}\n  .btn{display:inline-block;padding:14px 32px;border-radius:999px;font-weight:700;font-size:15px;transition:.25s;cursor:pointer;border:none}\n  .btn-amber{background:var(--amber);color:var(--deep)}\n  .btn-amber:hover{background:var(--amber-soft);transform:translateY(-2px)}\n  .btn-ghost{border:1px solid rgba(255,255,255,.4);color:#fff;background:transparent}\n  .btn-ghost:hover{border-color:var(--amber);color:var(--amber)}\n\n  .hero-quote{border-left:3px solid var(--amber);padding-left:24px;color:#e6edf5;font-size:17px}\n  .hero-quote p{font-style:italic}\n  .hero-quote footer{margin-top:12px;font-size:13px;color:#8fa3bc;font-style:normal}\n\n  .stat-strip{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:rgba(255,255,255,.12);border-radius:20px;overflow:hidden;margin-top:64px}\n  .stat{background:rgba(255,255,255,.06);padding:22px;text-align:center}\n  .stat b{display:block;font-size:26px;color:var(--amber)}\n  .stat span{font-size:13px;color:#b7c6d8}\n\n  /* ---------- 杂志式栏目 ---------- */\n  section{padding:96px 0}\n  .sec-head{display:flex;align-items:baseline;gap:20px;margin-bottom:48px}\n  .sec-no{font-size:64px;font-weight:900;color:var(--amber);opacity:.35;line-height:1}\n  .sec-head h2{font-size:34px;font-weight:800}\n  .sec-head p{color:var(--muted);margin-left:auto;max-width:320px;font-size:14px}\n\n  .mag-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}\n  .mag-card{background:#fff;border-radius:var(--radius);padding:36px;box-shadow:0 12px 40px rgba(11,29,51,.08);transition:.3s}\n  .mag-card:hover{transform:translateY(-6px);box-shadow:0 24px 56px rgba(11,29,51,.14)}\n  .mag-card .tag{display:inline-block;background:var(--deep);color:var(--amber);font-size:12px;padding:4px 14px;border-radius:999px;margin-bottom:18px;font-weight:700}\n  .mag-card h3{font-size:22px;margin-bottom:12px}\n  .mag-card p{color:var(--muted);font-size:15px}\n  .mag-card.wide{grid-column:span 2;background:var(--deep);color:#fff}\n  .mag-card.wide p{color:#b7c6d8}\n  .mag-card.wide .tag{background:var(--amber);color:var(--deep)}\n\n  /* ---------- 套餐阶梯 ---------- */\n  .plans{display:grid;grid-template-columns:repeat(3,1fr);gap:28px;align-items:end}\n  .plan{background:#fff;border-radius:var(--radius);padding:40px 32px;box-shadow:0 12px 40px rgba(11,29,51,.08);position:relative}\n  .plan:nth-child(1){margin-bottom:48px}\n  .plan:nth-child(3){margin-bottom:48px}\n  .plan.featured{background:linear-gradient(165deg,var(--deep),var(--deep2));color:#fff;padding-top:56px;padding-bottom:56px;box-shadow:0 24px 64px rgba(11,29,51,.28)}\n  .badge{position:absolute;top:-14px;left:50%;transform:translateX(-50%);background:var(--amber);color:var(--deep);font-size:13px;font-weight:800;padding:6px 20px;border-radius:999px;white-space:nowrap}\n  .plan h3{font-size:20px;margin-bottom:8px}\n  .price{font-size:38px;font-weight:900;color:var(--deep)}\n  .plan.featured .price{color:var(--amber)}\n  .annual{font-size:13px;color:var(--muted);margin-top:4px}\n  .plan.featured .annual{color:#9fb2c9}\n  .plan ul{list-style:none;margin:28px 0}\n  .plan li{padding:10px 0;font-size:15px;border-bottom:1px dashed rgba(11,29,51,.12);display:flex;gap:10px}\n  .plan.featured li{border-color:rgba(255,255,255,.14)}\n  .plan li::before{content:\"◆\";color:var(--amber);font-size:11px;line-height:2}\n  .plan .btn{width:100%;text-align:center}\n  .btn-deep{background:var(--deep);color:#fff}\n  .btn-deep:hover{background:var(--deep2)}\n\n  /* ---------- FAQ 分组 ---------- */\n  .faq-group{margin-bottom:40px}\n  .faq-group>h3{font-size:15px;letter-spacing:3px;color:var(--amber);font-weight:800;margin-bottom:16px;display:flex;align-items:center;gap:14px}\n  .faq-group>h3::after{content:\"\";flex:1;height:1px;background:rgba(11,29,51,.12)}\n  details{background:#fff;border-radius:20px;margin-bottom:12px;box-shadow:0 8px 28px rgba(11,29,51,.06);overflow:hidden}\n  summary{padding:20px 28px;font-weight:700;cursor:pointer;list-style:none;display:flex;justify-content:space-between;align-items:center;font-size:16px}\n  summary::after{content:\"+\";color:var(--amber);font-size:22px;font-weight:400}\n  details[open] summary::after{content:\"−\"}\n  details p{padding:0 28px 22px;color:var(--muted);font-size:15px}\n\n  /* ---------- 页脚 ---------- */\n  footer.site{background:var(--deep);color:#8fa3bc;border-radius:48px 48px 0 0;padding:64px 0 40px}\n  .foot-grid{display:flex;justify-content:space-between;gap:32px;flex-wrap:wrap}\n  .foot-grid .logo{color:#fff}\n  footer.site small{display:block;margin-top:40px;font-size:13px}\n\n  @media(max-width:860px){\n    .hero-grid,.mag-grid,.plans{grid-template-columns:1fr}\n    .mag-card.wide{grid-column:span 1}\n    .plan:nth-child(1),.plan:nth-child(3){margin-bottom:0}\n    .stat-strip{grid-template-columns:repeat(2,1fr)}\n    .sec-head p{margin-left:0}\n    .sec-head{flex-wrap:wrap}\n  }\n</style>\n<header class=\"hero\" id=\"top\">\n  <div class=\"wrap\">\n    <nav>\n      <div class=\"logo\">传奇<em>节点</em></div>\n      <div class=\"anchors\">\n        <a href=\"#top\">首页</a>\n        <a href=\"#features\">优势</a>\n        <a href=\"#plans\">套餐</a>\n        <a href=\"#faq\">常见问题</a>\n      </div>\n    </nav>\n\n    <div class=\"hero-grid\">\n      <div>\n        <span class=\"kicker\">FAST · STABLE · GLOBAL</span>\n        <h1>传奇节点 · 连接世界<br>只需<span>一个节点</span></h1>\n        <p class=\"hero-lede\">全球高速线路，原生流媒体解锁，游戏专线加速。简单，稳定，快。</p>\n        <div class=\"cta-row\">\n          <a class=\"btn btn-amber\" href=\"#plans\">立即开始</a>\n          <a class=\"btn btn-ghost\" href=\"#features\">了解优势</a>\n        </div>\n      </div>\n      <blockquote class=\"hero-quote\">\n        <p>\"用了三年，从没掉过链子。晚高峰看 4K 依然秒开。\"</p>\n        <footer>— 资深用户 · 来自旗舰版订阅</footer>\n      </blockquote>\n    </div>\n\n    <div class=\"stat-strip\">\n      <div class=\"stat\"><b>99.9%</b><span>在线率保障</span></div>\n      <div class=\"stat\"><b>50+</b><span>全球优质节点</span></div>\n      <div class=\"stat\"><b>10Gbps</b><span>骨干带宽</span></div>\n      <div class=\"stat\"><b>7×24</b><span>全天候支持</span></div>\n    </div>\n  </div>\n</header>\n\n\n<section id=\"features\">\n  <div class=\"wrap\">\n    <div class=\"sec-head\">\n      <div class=\"sec-no\">01</div>\n      <h2>为什么选择我们</h2>\n      <p>少一点噱头，多一点实在。每一条线路都经过真实测速。</p>\n    </div>\n    <div class=\"mag-grid\">\n      <div class=\"mag-card wide\">\n        <span class=\"tag\">速度</span>\n        <h3>真带宽，不虚标</h3>\n        <p>全线接入企业级骨干网络，高峰时段依旧从容。4K 秒开，大文件秒传。快，是我们的底线，不是上限。</p>\n      </div>\n      <div class=\"mag-card\">\n        <span class=\"tag\">流媒体</span>\n        <h3>原生 IP 解锁</h3>\n        <p>Netflix、Disney+、YouTube Premium 全区解锁。追剧不等待。</p>\n      </div>\n      <div class=\"mag-card\">\n        <span class=\"tag\">游戏</span>\n        <h3>IPLC 专线加速</h3>\n        <p>低延迟，零丢包。竞技场上，快人一步。</p>\n      </div>\n      <div class=\"mag-card\">\n        <span class=\"tag\">隐私</span>\n        <h3>零日志政策</h3>\n        <p>不记录，不追踪，不出售。你的数据只属于你。</p>\n      </div>\n      <div class=\"mag-card\">\n        <span class=\"tag\">易用</span>\n        <h3>全平台一键连接</h3>\n        <p>Windows、macOS、iOS、Android 全支持。三分钟上手。</p>\n      </div>\n    </div>\n  </div>\n</section>\n\n\n<section id=\"plans\">\n  <div class=\"wrap\">\n    <div class=\"sec-head\">\n      <div class=\"sec-no\">02</div>\n      <h2>选择你的套餐</h2>\n      <p>按年付立省两个月。随时升级，随时退款。</p>\n    </div>\n    <div class=\"plans\">\n\n      <div class=\"plan\">\n        <h3>基础版</h3>\n        <div class=\"price\">¥15<small>/月</small></div>\n        <div class=\"annual\">按年付仅需 ¥150/年</div>\n        <ul>\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a class=\"btn btn-deep\" href=\"#\">订阅基础版</a>\n      </div>\n\n      <div class=\"plan featured\">\n        <span class=\"badge\">最受欢迎</span>\n        <h3>旗舰版</h3>\n        <div class=\"price\">¥35<small>/月</small></div>\n        <div class=\"annual\">按年付仅需 ¥350/年</div>\n        <ul>\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7×24 优先工单支持</li>\n        </ul>\n        <a class=\"btn btn-amber\" href=\"#\">订阅旗舰版</a>\n      </div>\n\n      <div class=\"plan\">\n        <h3>团队版</h3>\n        <div class=\"price\">¥85<small>/月</small></div>\n        <div class=\"annual\">按年付仅需 ¥850/年</div>\n        <ul>\n          <li>每月 1000GB 极速流量</li>\n          <li>支持 20 台设备同时在线</li>\n          <li>VIP 专属高带宽节点</li>\n          <li>支持企业定制路由</li>\n          <li>专属客户经理服务</li>\n        </ul>\n        <a class=\"btn btn-deep\" href=\"#\">订阅团队版</a>\n      </div>\n\n    </div>\n  </div>\n</section>\n\n\n<section id=\"faq\">\n  <div class=\"wrap\">\n    <div class=\"sec-head\">\n      <div class=\"sec-no\">03</div>\n      <h2>常见问题</h2>\n      <p>没找到答案？工单平均响应时间 15 分钟。</p>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>订阅与支付</h3>\n      <details>\n        <summary>支持哪些支付方式？</summary>\n        <p>支持支付宝、微信支付及主流银行卡。支付成功后即时开通，无需等待。</p>\n      </details>\n      <details>\n        <summary>可以退款吗？</summary>\n        <p>新订阅 7 天内无条件全额退款。超过 7 天可按剩余时长比例申请退款。</p>\n      </details>\n      <details>\n        <summary>套餐可以中途升级吗？</summary>\n        <p>可以。升级即时生效，只需补足差价，原有剩余时长自动折算。</p>\n      </details>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>使用与设备</h3>\n      <details>\n        <summary>支持哪些设备和客户端？</summary>\n        <p>Windows、macOS、iOS、Android、Linux 全平台支持，同时兼容主流第三方客户端订阅导入。</p>\n      </details>\n      <details>\n        <summary>设备数量超限怎么办？</summary>\n        <p>可在用户中心随时解绑旧设备，或升级至更高套餐获得更多同时在线名额。</p>\n      </details>\n    </div>\n\n    <div class=\"faq-group\">\n      <h3>速度与稳定性</h3>\n      <details>\n        <summary>晚高峰会限速吗？</summary>\n        <p>不会。我们按峰值负载预留 40% 冗余带宽，任何时段都不限速、不降质。</p>\n      </details>\n      <details>\n        <summary>节点连不上怎么办？</summary>\n        <p>客户端内置一键诊断，可自动切换备用线路。若仍无法解决，7×24 工单随时在线。</p>\n      </details>\n    </div>\n  </div>\n</section>\n\n\n<footer class=\"site\">\n  <div class=\"wrap\">\n    <div class=\"foot-grid\">\n      <div>\n        <div class=\"logo\">传奇<em>节点</em></div>\n        <p>连接世界，只需一个节点。</p>\n      </div>\n      <div class=\"anchors\">\n        <a href=\"#features\">优势</a>\n        <a href=\"#plans\">套餐</a>\n        <a href=\"#faq\">常见问题</a>\n      </div>\n    </div>\n    <small>© 2025 传奇节点 · 保留所有权利</small>\n  </div>\n</footer></main>",
+          "hash": "d25702d9b78b45269a1aeb95db9cf29ca22c194ca7a0f637d7293d9014b1c5a2",
+          "seo": {
+            "title": "传奇节点 — 极速稳定的全球网络加速",
+            "keywords": "传奇节点,品牌介绍,套餐说明,客户端,常见问题",
+            "description": "全球高速线路，原生流媒体解锁，游戏专线加速。简单，稳定，快。"
+          },
+          "provider": "grok",
+          "model": "kimi-k3",
+          "design": {
+            "no": "5882",
+            "hero": "3 杂志式多栏网格配引言",
+            "palette": "3 深海蓝配琥珀",
+            "nav": "3 首屏内嵌锚点标签",
+            "card": "3 大圆角软阴影",
+            "plans_view": "3 阶梯式递进排列",
+            "faq_view": "3 按主题分组",
+            "tone": "3 简洁利落的短句",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kylinyun.cn",
+    "host": "p-de77450bd6.kylinyun.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "ba7603809ed5d25e08cd1c0d17ece5dfc32de89c790105a6b1e7fbf805feba65",
+    "sitemap.xml": "1a1fee5337e47e5be71e7f16063ed742cf31abf2f3288923529fb60eb7ffc00f",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "1c8d53a59d69672a384ca52d19d594823936dd24037070ba8a983efda8266a9f",
+    "robots.txt": "62fd99033c43c250e73ac35f7a4d24da65e05cb5319af17469a118a1e726eb5a",
+    "f467718e9b9dd22d1e118851826cb644.txt": "7bd96d266c7ae79eb43a0642496b879198422c79cf1e35cc43c5c22ad028abc2"
+  },
+  "revision": "a89e93ac3139b459da28ea753f282132fd4857787501c6da11f25effe4d8b979"
+}
